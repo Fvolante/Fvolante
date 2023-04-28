@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco Lamacchia i'm stdudying to become a developer
 - 👀 I’m particulary interested in interchange between Art and web applications, so i want to improve myself as a frontend developer
-- 🌱 I’m currently learning python and beeing part od TomorrowDevs community
+- 🌱 I’m currently improve my skills in css and javascript 
 
 See you!
 
